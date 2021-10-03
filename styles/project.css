@@ -1,3 +1,40 @@
-.hero{background:linear-gradient(rgba(34, 114, 233, 0.616))}
+.hero{background:linear-gradient(60deg,rgb(63, 15, 235), rgb(107, 255, 238));
+text-align:center;
+margin:auto 0;
+padding:160px 20px;}
 
-h1{font-family:'Lobster', cursive;}
+h1{font-family:'Lobster', cursive;
+font-size:96px;
+font-weight:bold;}
+
+h2{font-size:40px;
+font-weight:bold;
+font-family:'Lobster', cursive;
+display:block;}
+
+h3{font-family:'Lobster', cursive;
+font-weight:normal;
+font-size:24px;}
+
+.navigation-links{display:flex;
+margin-top:40px;
+justify-content:center;}
+
+.navigation-links a{margin:20px;
+border-radius:4px;
+padding:20px 15px;
+text-decoration:none;
+text-transform:capitalize;}
+
+.about-link, .contact-link{text-align:center;
+font-size:80%;}
+
+.about-link{color:black;
+border:1px solid white;
+box-shadow:0 5px 10px rgba(0, 0, 0, 0.4);
+background:mediumspringgreen;}
+
+.contact-link{color:black;
+border:1px solid white;
+box-shadow:0 5px 10px rgba(0, 0, 0, 0.4);
+background:mediumspringgreen;}
