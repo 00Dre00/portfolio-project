@@ -14,7 +14,9 @@ display:block;}
 
 h3{font-family:'Lobster', cursive;
 font-weight:normal;
-font-size:24px;}
+font-size:24px;
+text-align:center;
+margin:0;}
 
 .navigation-links{display:flex;
 margin-top:40px;
@@ -38,3 +40,6 @@ background:mediumspringgreen;}
 border:1px solid white;
 box-shadow:0 5px 10px rgba(0, 0, 0, 0.4);
 background:mediumspringgreen;}
+
+p{font-family:'Niconne, cursive;'}
+
