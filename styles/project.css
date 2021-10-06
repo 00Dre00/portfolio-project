@@ -5,7 +5,8 @@ padding:160px 20px;}
 
 h1{font-family:'Lobster', cursive;
 font-size:96px;
-font-weight:bold;}
+font-weight:bold;
+margin-top: 40px;}
 
 h2{font-size:40px;
 font-weight:bold;
@@ -41,6 +42,8 @@ border:1px solid white;
 box-shadow:0 5px 10px rgba(0, 0, 0, 0.4);
 background:mediumspringgreen;}
 div p{font-family:'Niconne, cursive;'}
+
+img{margin-top:40px;}
 
 
 
